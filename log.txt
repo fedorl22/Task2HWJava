@@ -1,0 +1,24 @@
+мар 08, 2023 2:26:03 PM Task1 main
+INFO: Source array: [125, 34, 725, 32, 22, 17, 90, 55, 78, -22, -33]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on1-th iteration: [34, 125, 32, 22, 17, 90, 55, 78, -22, -33, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on2-th iteration: [34, 32, 22, 17, 90, 55, 78, -22, -33, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on3-th iteration: [32, 22, 17, 34, 55, 78, -22, -33, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on4-th iteration: [22, 17, 32, 34, 55, -22, -33, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on5-th iteration: [17, 22, 32, 34, -22, -33, 55, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on6-th iteration: [17, 22, 32, -22, -33, 34, 55, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on7-th iteration: [17, 22, -22, -33, 32, 34, 55, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on8-th iteration: [17, -22, -33, 22, 32, 34, 55, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on9-th iteration: [-22, -33, 17, 22, 32, 34, 55, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 bubbleSort
+INFO: Intermediate result on10-th iteration: [-33, -22, 17, 22, 32, 34, 55, 78, 90, 125, 725]
+мар 08, 2023 2:26:03 PM Task1 main
+INFO: Sorted array: [-33, -22, 17, 22, 32, 34, 55, 78, 90, 125, 725]

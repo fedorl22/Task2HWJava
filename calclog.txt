@@ -1,0 +1,8 @@
+мар 08, 2023 2:29:31 PM task4 main
+INFO: First Number 5.0
+мар 08, 2023 2:29:36 PM task4 main
+INFO: Arithmetic sign *
+мар 08, 2023 2:29:41 PM task4 main
+INFO: Second Number 23.0
+мар 08, 2023 2:29:41 PM task4 main
+INFO: Result: 115.0
